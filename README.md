@@ -1,0 +1,2 @@
+# ROG-B460I-Hackintosh
+OpenCore EFI for ROG STRIX B460-I GAMING
