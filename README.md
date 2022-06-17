@@ -1,12 +1,11 @@
 # ROG-B460I-Hackintosh
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.2-yellowgreen)](#)
+[![macOS](https://img.shields.io/badge/macOS-13.0(beta)-orange)](#)
+[![BIOS](https://img.shields.io/badge/BIOS-1601-brightgreen)](#)
+
 OpenCore EFI for ROG STRIX B460-I GAMING
 
 **_PLEASE ADD YOUR OWN `PlatformInfo` BEFORE USING_**
-
-## EFI
-**OpenCore** 0.8.2
-
-**macOS** Ventura 13.0 beta (22A5266r)
 
 ## Specifications
 <img src="https://github.com/keyuxing/ROG-B460I-Hackintosh/blob/main/about.png" width = "33%" alt=""/>
