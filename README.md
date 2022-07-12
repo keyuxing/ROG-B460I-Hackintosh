@@ -1,5 +1,5 @@
 # ROG-B460I-Hackintosh
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.2-yellowgreen)](#)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.3(dev)-yellowgreen)](#)
 [![macOS](https://img.shields.io/badge/macOS-13.0(beta)-orange)](#)
 [![BIOS](https://img.shields.io/badge/BIOS-1601-brightgreen)](#)
 
