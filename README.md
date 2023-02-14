@@ -1,6 +1,6 @@
 # ROG-B460I-Hackintosh
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.7-yellowgreen)](#)
-[![macOS](https://img.shields.io/badge/macOS-13.0.1-orange)](#)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.0-yellowgreen)](#)
+[![macOS](https://img.shields.io/badge/macOS-13.2.1-orange)](#)
 [![BIOS](https://img.shields.io/badge/BIOS-1601-brightgreen)](#)
 
 OpenCore EFI for ROG STRIX B460-I GAMING
